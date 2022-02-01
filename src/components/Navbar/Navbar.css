@@ -51,6 +51,7 @@
 }
 .app__navbar-smallscreen {
   display: none;
+  cursor: pointer;
 }
 .app__navbar-smallscreen_overlay {
   position: fixed;

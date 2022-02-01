@@ -32,7 +32,7 @@ const Navbar = () => {
           <a href="#słowa">Słowa</a>
         </li>
         <li className="p__opensans">
-          <a href="#słowa">Słowa</a>
+          <a href="#cytaty">Cytaty</a>
         </li>
         <li className="p__opensans">
           <a href="#foto">Foto</a>

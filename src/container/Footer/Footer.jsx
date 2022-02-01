@@ -13,9 +13,9 @@ const Footer = () => (
 
     <div className="app__footer-links">
       <div className="app__footer-links_contact">
-        <h1 className="app__footer-headtext">
+        <h2 className="app__footer-headtext">
           Obecna siedziba Dalajlamy (od 1959)
-        </h1>
+        </h2>
         <p className="p__opensans">McLeod Ganj k. Dharamsali (płn. Indie)</p>
         <p className="p__opensans">"Mała Lhasa"</p>
         <p className="p__opensans">
@@ -62,7 +62,7 @@ const Footer = () => (
       </div>
 
       <div className="app__footer-links_work">
-        <h1 className="app__footer-headtext">Tybetański Rząd na Uchodźctwie</h1>
+        <h2 className="app__footer-headtext">Tybetański Rząd na Uchodźctwie</h2>
         <p className="p__opensans">Parlament Tybetański na Uchodźstwie</p>
         <p className="p__opensans">Tsuglag Khang - świątynia Dalajlamy</p>
         <p className="p__opensans">Biblioteka Tybetańskich Dzieł i Archiwów</p>

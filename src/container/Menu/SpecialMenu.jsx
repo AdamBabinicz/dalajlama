@@ -59,7 +59,7 @@ const SpecialMenu = () => {
         <Modal
           show={modal}
           close={Toggle}
-          title="Zajmijcie się reinkarnacjami Mao i Denga, a nie moją – apeluje XIV Dalajlama do chińskich komunistów"
+          title="Zajmijcie się reinkarnacjami Mao i Denga, ..."
         >
           <p>
             Chińskie władze dążą do przejęcia kontroli nad buddyzmem tybetańskim
@@ -72,9 +72,7 @@ const SpecialMenu = () => {
           </p>
           <br />
           <p>
-            <em>
-              www.polityka.pl/tygodnikpolityka/swiat/1713290,1,co-ma-wspolnego-polityka-z-reinkarnacja.read
-            </em>
+            <em>www.polityka.pl/tygodnikpolityka/swiat</em>
           </p>
         </Modal>
       </div>

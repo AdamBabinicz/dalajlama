@@ -62,7 +62,7 @@ const Gallery = () => {
           </p>
           <br />
           <p>
-            <em>www.990px.pl/index.php/2010/02/22/28-zdjec-z-xiv-dalajlama</em>
+            <em>www.990px.pl/index.php/2010/02/22</em>
           </p>
         </Modal>
       </div>
@@ -76,6 +76,14 @@ const Gallery = () => {
             images.gallery05,
             images.gallery06,
             images.gallery07,
+            images.gallery08,
+            images.gallery09,
+            images.gallery10,
+            images.gallery11,
+            images.gallery12,
+            images.gallery13,
+            images.gallery14,
+            images.gallery15,
           ].map((image, index) => (
             <div
               className="app__gallery-images_card flex__center"

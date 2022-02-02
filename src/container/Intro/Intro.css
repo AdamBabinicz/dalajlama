@@ -9,7 +9,11 @@
 }
 .app__video-overlay {
   position: absolute;
-  inset: 0;
+  /* inset: 0; */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   background: rgba(0, 0, 0, 0.65);
 }
 .app__video-overlay_circle {
@@ -22,8 +26,8 @@
 
 @media only screen and (max-width: 768px) {
   .app__video-overlay_circle {
-    display: grid;
-    place-items: center;
+    /* display: grid;
+    place-items: center; */
     background: red;
   }
 }
